@@ -1,0 +1,55 @@
+html,body{
+    
+    margin:0;
+    height:100%;
+    overflow-x: hidden;
+}
+h1 {
+    text-shadow: 2px 2px grey;
+}
+
+.headingblock{
+    height:7px;
+    background-color: #2A3132;
+}
+
+.blankblock{
+    min-height:40px;
+}
+
+  .contacthome{
+      color:#fff;
+      display: block;
+      padding-left:50px;
+      padding-top:8px;
+      max-height:30px;
+      min-height:30px;
+      max-width:100%;
+      border-radius: 10px;
+      background-color: #2A3132;
+  }
+  .titlehead{
+      color: #2A3132;
+      padding: 10px;
+  }
+
+ .btn .btn-info{
+      min-height:20px;
+  }
+
+  .media-body .achieve{
+      padding:100px;
+  }
+  .container-fluid{
+      margin:0;
+      width:100%;
+  }
+
+.achievements{
+    background-image: url("../img/achievements.jpg");
+    backface-visibility: .5;
+    background-size:100%;
+}
+.achievements .well{
+    backface-visibility: .2;
+}

@@ -1,0 +1,37 @@
+html,body{
+    margin:0;
+    height:100%;
+}
+
+.headingblock{
+    height:7px;
+    background-color: #2A3132;
+}
+
+
+  .contacthome{
+      color:#fff;
+      display: block;
+      padding-left:50px;
+      padding-top:8px;
+      max-height:30px;
+      min-height:30px;
+      max-width:100%;
+      border-radius: 10px;
+      background-color: #2A3132;
+  }
+  .titlehead{
+      color: #2A3132;
+      padding: 10px;
+  }
+
+ .btn .btn-info{
+      min-height:20px;
+  }
+
+  .login{
+      padding:100px;
+  }
+  .achieve{
+      padding:100px;
+  }

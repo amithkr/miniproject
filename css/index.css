@@ -1,0 +1,53 @@
+.upcomingevent{
+    min-height:40px;
+    max-height: 40px;
+    background-color: #336B87;
+   
+}
+.rounded{
+    min-height:40px;
+    border-radius: 10px;
+    background-color: #f4decb;
+    padding:10px;
+}
+.homeblock{
+min-height:10px;
+
+}
+.home{
+    min-height:300px;
+    word-wrap: break-word; /*if you want to allow unbreakable words to be broken*/
+    display: inline-block;
+    text-align:justify;
+    
+    
+}
+.newsblock{
+    min-height:250px;
+}
+.homemessage{
+    background-color: #f4decb;
+    min-height:300px;
+}
+.messageblock{
+    padding:40px;
+    background-color: #f4decb;
+    word-wrap: break-word; /*if you want to allow unbreakable words to be broken*/
+    display: inline-block;
+    text-align:justify;
+}
+.homemessage .jumbotron{
+    padding:10px;
+    margin:0;
+    max-width:500px;
+    background: #f4decb;
+}
+
+.club{
+    min-height:600px;
+}
+
+.newsblock .aboutnewsblock{
+    min-height:100px;
+}
+

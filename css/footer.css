@@ -1,0 +1,13 @@
+.texture{
+    background-image: url("../img/grunge.jpg");
+    background-size:100%; 
+    backface-visibility: .5;
+    color: white;
+    padding:10px;
+}
+.studentcorner{
+   
+    background-image: url("../img/Students.jpg");
+    background-size:100%;
+    min-height:300px;
+}
